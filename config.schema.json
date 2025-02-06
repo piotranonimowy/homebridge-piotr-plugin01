@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "homebridge-piotr-plugin01",
   "pluginType": "platform",
   "singular": true,
   "strictValidation": false,

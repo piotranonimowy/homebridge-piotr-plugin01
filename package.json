@@ -1,19 +1,19 @@
 {
-  "name": "homebridge-plugin-name",
-  "displayName": "Plugin Name",
+  "name": "homebridge-piotr-plugin01",
+  "displayName": "plugin for garage based on template",
   "type": "module",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "description": "A short description about what your plugin does.",
   "author": "Your Name",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/USERNAME/GITHUB_PROJECT_NAME#readme",
+  "homepage": "https://github.com/piotranonimowy/homebridge-piotr-plugin01.git#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "https://github.com/piotranonimowy/homebridge-piotr-plugin01.git"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/piotranonimowy/homebridge-piotr-plugin01.git/issues"
   },
   "keywords": [
     "homebridge-plugin"
